@@ -1,0 +1,8 @@
+
+
+
+
+
+slotEntry:  http://localhost/smartparking/api/slotEntry.php?slot_number=7
+
+slotExit: http://localhost/smartparking/api/slotExit.php?slot_number=7
